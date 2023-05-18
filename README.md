@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eelyneee&label=Profile%20views&color=0e75b6&style=flat" alt="eelyneee" /> </p>
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **Vue, ASP.NET**
 
 - 👨‍💻 All of my projects are available at [https://eportfolio-eelyneee.vercel.app/](https://eportfolio-eelyneee.vercel.app/)
 
