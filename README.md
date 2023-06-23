@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Vue, ASP.NET**
 
-- 👨‍💻 All of my projects are available at [https://eportfolio-eelyneee.vercel.app/](https://eportfolio-eelyneee.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://eelyneee.vercel.app/](https://eelyneee.vercel.app/)
 
 - 📫 How to reach me **eelyne99@gmail.com**
 
