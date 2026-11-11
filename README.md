@@ -25,7 +25,7 @@
       <td align="center">
         <a href="https://github.com/Eelyneee/XAI-Pneumonia-classification">
           <img src="https://dummyimage.com/250x250/000/fff&text=example+2" width="250px" alt="XAI-pneumonia-detection"/><br/>
-          <b>MAIRIE DEMBANCANE</b>
+          <b>XAI in Pneumonia Detection</b>
         </a>
       </td>
     </tr>
