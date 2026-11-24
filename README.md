@@ -15,26 +15,26 @@
 ## 🚀 Projects
   <table>
     <tr>
-      <td align="center">
-        <a href="https://github.com/Eelyneee/review-extraction-pipeline"/>
-          <img src="https://github.com/Eelyneee/eelyneee/projects/rp-demo.png" width="250px" alt="RP-NLP-Pipeline"/><br/>
+      <td align="center" valign="bottom" width="33%">
+        <a href="https://github.com/Eelyneee/review-extraction-pipeline">
+          <img src="https://github.com/Eelyneee/eelyneee/blob/main/projects/rp-demo.png" height="180px" alt="RP-NLP-Pipeline"/><br/>
           <b>Review Extraction Pipeline</b>
         </a>
       </td>
-      <td align="center">
+      <td align="center" valign="bottom" width="33%">
         <a href="https://github.com/Eelyneee/XAI-Pneumonia-classification">
-          <img src="https://github.com/Eelyneee/eelyneee/projects/xai-demo.png" width="250px" alt="XAI-pneumonia-detection"/><br/>
+          <img src="https://github.com/Eelyneee/eelyneee/blob/main/projects/xai1-demo.png" height="180px" alt="XAI-pneumonia-detection"/><br/>
           <b>XAI in Pneumonia Detection</b>
         </a>
       </td>
-       <td align="center">
+      <td align="center" valign="bottom" width="33%">
         <a href="https://github.com/Eelyneee/WQF7010_Robotics">
-          <img src="https://dummyimage.com/250x250/000/fff&text=robotics+projects" width="250px" alt="Robotics-Smile-Detector"/><br/>
+          <img src="https://dummyimage.com/250x180/000/fff&text=robotics+projects" height="180px" alt="Robotics-Smile-Detector"/><br/>
           <b>Interactive Robot Photographer with Real-Time Multi-Face Smile Detection</b>
         </a>
       </td>
     </tr>
-   </table>
+</table>
 
 ---
 
