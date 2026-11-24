@@ -1,6 +1,5 @@
 # Hi there, I'm Eelyne! 👋
 
-👩🏻‍💻 Aspiring PhD candidates sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied Artificial Intelligence at the University of Malaya, Malaysia<br/>
 💡 Research Interest: Explainable AI, AI in Healthcare, AI in Operations Management
 
@@ -18,14 +17,20 @@
     <tr>
       <td align="center">
         <a href="https://github.com/Eelyneee/review-extraction-pipeline"/>
-          <img src="https://dummyimage.com/250x250/000/fff&text=example+1" width="250px" alt="RP-NLP-Pipeline"/><br/>
+          <img src="https://github.com/Eelyneee/eelyneee/projects/rp-demo.png" width="250px" alt="RP-NLP-Pipeline"/><br/>
           <b>Review Extraction Pipeline</b>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/Eelyneee/XAI-Pneumonia-classification">
-          <img src="https://dummyimage.com/250x250/000/fff&text=example+2" width="250px" alt="XAI-pneumonia-detection"/><br/>
+          <img src="https://github.com/Eelyneee/eelyneee/projects/xai-demo.png" width="250px" alt="XAI-pneumonia-detection"/><br/>
           <b>XAI in Pneumonia Detection</b>
+        </a>
+      </td>
+       <td align="center">
+        <a href="https://github.com/Eelyneee/WQF7010_Robotics">
+          <img src="https://dummyimage.com/250x250/000/fff&text=robotics+projects" width="250px" alt="Robotics-Smile-Detector"/><br/>
+          <b>Interactive Robot Photographer with Real-Time Multi-Face Smile Detection</b>
         </a>
       </td>
     </tr>
