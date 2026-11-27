@@ -2,7 +2,7 @@
 
 👩🏻‍🎓 Studied Artificial Intelligence at the University of Malaya, Malaysia<br/>
 💡 Research Interest: Explainable AI, AI in Healthcare, AI in Operations Management<br/>
-👩🏻‍💻 eelynelow.space
+👩🏻‍💻 [eelynelow.space](https://eelynelow.space/)
 
 ## 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
