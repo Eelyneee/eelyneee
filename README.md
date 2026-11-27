@@ -1,7 +1,7 @@
 # Hi there, I'm Eelyne! 👋
 
 👩🏻‍🎓 Studied Artificial Intelligence at the University of Malaya, Malaysia<br/>
-💡 Research Interest: Explainable AI, AI in Healthcare, AI in Operations Management
+💡 Research Interest: Explainable AI, AI in Healthcare, AI in Operations Management<br/>
 👩🏻‍💻 eelynelow.space
 
 ## 💻 Tech Stack
